@@ -2,7 +2,7 @@
 title: "Next.js のページに three.js を載せてみる"
 emoji: "😸"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Next.js", "three.js"]
+topics: ["nextjs", "threejs"]
 published: true
 ---
 
